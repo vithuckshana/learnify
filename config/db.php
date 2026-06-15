@@ -12,5 +12,3 @@ if ($conn->connect_error) {
 }
 
 ?>
-
-ipidi pannatha vithu
